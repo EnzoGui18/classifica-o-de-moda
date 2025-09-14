@@ -42,6 +42,6 @@ O objetivo principal é construir, treinar e avaliar um modelo de Rede Neural Ar
 
 Após uma fase de experimentação sistemática, o modelo final alcançou uma performance robusta, validando a solução para o problema de negócio.
 
-* **Acurácia Final (Conjunto de Teste):** **[SUA ACURÁCIA FINAL, ex: 88.12%]**
+* **Acurácia Final (Conjunto de Teste):** **88.45%**
 * **Melhor Arquitetura:** MLP com 1 camada oculta de 300 neurônios (ReLU), regularizada com Dropout (taxa de 0.3) e com *Early Stopping*.
 * **Principal Insight:** O modelo demonstrou excelente performance em classes com formas distintas (como Botas, Calças e Bolsas, com F1-Score > 0.9
